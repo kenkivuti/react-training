@@ -1,0 +1,22 @@
+react:
+-it is a javascript library for building dynamic and user 
+interface.
+
+setting up envirnonment
+
+- download node.js
+-install prettier in vscode
+
+creating a react app
+
+-create react app(CRA)
+-vite
+
+steps:
+-open cmd and create a folder i.e mkdir newfolder create directory hierarachy
+-install vite@latest
+-write the project name i.e react-app
+-select framework - react
+-select variant - typescript
+-open the react-app and npm install
+- then open the folder in vscode - code .
